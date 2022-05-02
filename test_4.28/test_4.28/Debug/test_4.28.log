@@ -1,0 +1,4 @@
+﻿  test.c
+d:\c_vs\test_4.28\test_4.28\test.c(52): warning C4101: “arr1”: 未引用的局部变量
+d:\c_vs\test_4.28\test_4.28\test.c(51): warning C4101: “arr”: 未引用的局部变量
+  test_4.28.vcxproj -> D:\C_vs\test_4.28\Debug\test_4.28.exe
